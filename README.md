@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Welcome to my GitHub page
+Today, I am mostly working on, online games 👽 
 <!--
 **geist3/geist3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
