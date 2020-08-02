@@ -1,6 +1,8 @@
 ### Hi there 👋
 Welcome to my GitHub page
-Today, I am mostly working on, online games 👽 
+Today, I am mostly working on, learning to make online games 👽 
+Play them here 
+https://geist3.github.io/
 <!--
 **geist3/geist3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
